@@ -2,8 +2,8 @@
 
 ## versions
 
-- [ ] Web Version
-- [ ] Mobile Version
+- [ ] [Web Version](https://github.com/ViniZap4/NLW-eSports-web)
+- [ ] [Mobile Version](https://github.com/ViniZap4/NLW-eSports-mobile)
 - [x] Back-end Version
 
 ## Description
